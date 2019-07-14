@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="loginbutton">Войти</string>
+    <string name="registertext">Регистрация</string>
+    <string name="forgottext">Забыли пароль?</string>
+    <string name="phonehint">Телефон</string>
+    <string name="passwordhint">Пароль</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="dateofbirthfield">Дата рождения</string>
+    <string name="lnamefield">Фамилия</string>
+    <string name="fnamefield">Имя</string>
+    <string name="snamefield">Отчество</string>
+    <string name="seriesfield">Серия</string>
+    <string name="passwordfield">Пароль</string>
+    <string name="repeatpassfield">Повторите пароль</string>
+    <string name="send_code_button">Отправить код</string>
+    <string name="sendmecodetext">Введите нормер телефона, на который мы отправим код для сброса пароля</string>
+    <string name="numberfield">Номер</string>
+    <string name="emailtext">Электронная почта</string>
+    <string name="emailfield">эл. почта</string>
+    <string name="passport">Паспорт</string>
+    <string name="_7">+7</string>
+    <string name="active_tickets">Активные талоны</string>
+    <string name="profile">Профиль</string>
+    <string name="history">История операций</string>
+    <string name="get_ticket">Получить талон</string>
+    <string name="aviagrant">Aviagrant</string>
+    <string name="some_id">Больше не нужно стоять в очередях</string>
+    <string name="login">Логин</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="logout">Выйти</string>
+    <string name="avatar">Аватар</string>
+    <string name="logintext">Логин</string>
+
+</resources>

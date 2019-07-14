@@ -55,7 +55,8 @@ class MainActivity : AppCompatActivity() {
                     startActivity(i)
                 }
                 override fun onResponse(call: Call<Login>?, response: Response<Login>?) {
-                   // Log.v("ASDASDASDASD",response!!.body().status)
+                    // Раскомментить, если хочется попробовать с сервером. Переписать (тут плохо), когда будет рабочий сервер
+                    // Log.v("ASDASDASDASD",response!!.body().status)
                     val i=Intent(this@MainActivity,PrimeActivity::class.java)
                     i.putExtra("userid","1016499912")
                     i.putExtra("username","DartPelmen")

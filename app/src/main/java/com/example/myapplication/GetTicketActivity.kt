@@ -15,6 +15,9 @@ import kotlinx.android.synthetic.main.activity_profile.*
 import java.util.*
 
 //Wait for server
+//Тут локальный вариант. Для хэша (sha-256) подается паспорт+фамилия
+//Когда будет сервер, переписать вместо паспорт+фамилия uuid+паспорт.
+//Стоит добавить сохранение тикета в локальную бд и синхронизацию при наличии связи с сервером.
 class GetTicketActivity : AppCompatActivity() {
     val WHITE = -0x1
     val BLACK = -0x1000000
